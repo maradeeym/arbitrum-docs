@@ -21,6 +21,8 @@ Furthermore, new node operators joining a network or node operators who come onl
 
 Offchain Labs has plans to reduce a Nitro validator's reliance on historical blob data and will share updates on this effort in the future.
 
+Here is the updated list of Ethereum beacon chain RPC providers with dRPC added:
+
 ### List of Ethereum beacon chain RPC providers
 
 | Provider                                                                    | Mainnet Beacon chain APIs? | Mainnet Historical blob data? | Holesky Beacon chain APIs? | Sepolia Beacon chain APIs? |
@@ -33,6 +35,7 @@ Offchain Labs has plans to reduce a Nitro validator's reliance on historical blo
 | [Nirvana Labs](https://nirvanalabs.io)                                      | ✅                         | ✅                            |                            |                            |
 | [NodeReal](https://nodereal.io/)                                            | ✅                         |                               |                            |                            |
 | [QuickNode](https://www.quicknode.com/docs/ethereum)                        | ✅                         | ✅                            | ✅                         | ✅                         |
+| [dRPC](https://drpc.org/chainlist/eth-beacon-chain?utm_source=docs&utm_medium=arbitrum_eth_beacon)                         | ✅                         |                               | ✅                         | ✅                         |
 
 Please reach out to these teams individually if you need assistance with setting up your validator with any of the above providers.
 
